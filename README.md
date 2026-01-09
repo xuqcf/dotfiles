@@ -50,10 +50,4 @@ dotfiles/
 ├── fastfetch/    # fastfetch config
 └── README.md
 
-setup (fresh arch)
-
-Clone the repo:
-
-git clone https://github.com/xuqcf/dotfiles.git
-cd dotfiles
 
